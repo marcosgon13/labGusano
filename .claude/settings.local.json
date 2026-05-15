@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod +x *)",
+      "Bash(make all *)",
+      "Bash(make keys *)",
+      "Bash(make test *)"
+    ]
+  }
+}
